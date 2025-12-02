@@ -1,9 +1,4 @@
 {
-  "showDialog": false,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/praveenbmi_46"
+    "latest_version": 1,
+    "download_url": "https://yourappdownlod.link"
 }
